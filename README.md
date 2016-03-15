@@ -10,13 +10,14 @@ npm install -g yo
 npm install -g generator-es2017
 ```
 
-Then generate your new project:
+Then generate your new project's boilerplate:
 
 ```bash
-yo es2017
+npm init
+yo es2017:minimal
 ```
 
-# Similar projects
+## Similar projects
 - https://github.com/alferov/generator-universal-module
 - https://github.com/dsebastien/modernWebDevGenerator
 - https://github.com/babel/generator-babel-boilerplate
